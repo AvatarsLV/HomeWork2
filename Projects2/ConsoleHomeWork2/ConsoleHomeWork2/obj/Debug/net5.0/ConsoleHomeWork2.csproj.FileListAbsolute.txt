@@ -1,0 +1,16 @@
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\bin\Debug\net5.0\ConsoleHomeWork2.exe
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\bin\Debug\net5.0\ConsoleHomeWork2.deps.json
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\bin\Debug\net5.0\ConsoleHomeWork2.runtimeconfig.json
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\bin\Debug\net5.0\ConsoleHomeWork2.runtimeconfig.dev.json
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\bin\Debug\net5.0\ConsoleHomeWork2.dll
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\bin\Debug\net5.0\ref\ConsoleHomeWork2.dll
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\bin\Debug\net5.0\ConsoleHomeWork2.pdb
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\obj\Debug\net5.0\ConsoleHomeWork2.csproj.AssemblyReference.cache
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\obj\Debug\net5.0\ConsoleHomeWork2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\obj\Debug\net5.0\ConsoleHomeWork2.AssemblyInfoInputs.cache
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\obj\Debug\net5.0\ConsoleHomeWork2.AssemblyInfo.cs
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\obj\Debug\net5.0\ConsoleHomeWork2.csproj.CoreCompileInputs.cache
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\obj\Debug\net5.0\ConsoleHomeWork2.dll
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\obj\Debug\net5.0\ref\ConsoleHomeWork2.dll
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\obj\Debug\net5.0\ConsoleHomeWork2.pdb
+C:\Projects\Projects2\ConsoleHomeWork2\ConsoleHomeWork2\obj\Debug\net5.0\ConsoleHomeWork2.genruntimeconfig.cache
