@@ -18,6 +18,7 @@ namespace ConsoleHomeWork2
             int ageNextYear = age + 1;
             bool Is18 = age >= 18;
 
+
             Console.WriteLine($"Nākamgad Tev paliks {ageNextYear}, Tu esi pilngadīgs:  {Is18}");
 
 
